@@ -1,6 +1,7 @@
 # Fifa_Moneyball
 Personal fifa project
 
+![image](https://user-images.githubusercontent.com/71361520/136672613-b5fa64e1-b8a4-4796-985a-9ae8d5843a50.png)
 
 
 My project asks the data "What actually influences the wages paid to players?"
